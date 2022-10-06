@@ -1,0 +1,1 @@
+/bin/python3 "/home/BeemYo/Documents/hacking/Resource monitor/main.py"
